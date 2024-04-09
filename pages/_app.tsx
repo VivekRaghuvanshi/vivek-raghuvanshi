@@ -33,7 +33,7 @@ function VivekPortfolio({ Component, pageProps }: any) {
                 <meta name="twitter:creator" content="@tweetxvivek" />
                 <meta name="twitter:image:alt" content="VR" />
 
-                <title>Vivek Raghuvanshi</title>
+                <title>Vivek | Portfolio</title>
             </Head>
             <Component {...pageProps} />
         </>
